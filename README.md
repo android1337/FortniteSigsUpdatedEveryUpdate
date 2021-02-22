@@ -21,7 +21,7 @@ LineOfSightTo = 40 55 53 56 57 48 8D 6C 24 ? 48 81 EC ? ? ? ? 48 8B 05 ? ? ? ? 4
 
 If you don't know how to update your pasta cause maybe has a different type of sig just change the ? with a 00 and before every part add \x
 example:
-Before -> 48 8B 0D ? ? ? ? 48 98
-After -> \x48\x8B\x0D\x00\x00\x00\x00\x48\x98
+Before -> ```cpp 48 8B 0D ? ? ? ? 48 98```
+After ->  ```cpp \x48\x8B\x0D\x00\x00\x00\x00\x48\x98```
 
 If you have any troubles dm me on discord: Android#1212
