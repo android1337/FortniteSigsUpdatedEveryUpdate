@@ -2,6 +2,8 @@
 Fortnite Signatures / Patterns updated every update
 Ez Fortnite Sigs for your pasta
 
+Updated season 6 else Uworld, GetObjectName and Free
+
 ```cpp
 
 UWorld = STILL SEARCHING CAUSE SEASON 6
