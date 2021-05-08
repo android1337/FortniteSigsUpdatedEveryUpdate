@@ -15,7 +15,7 @@ LineOfSightTo: E8 ? ? ? ? 48 8B 0D ? ? ? ? 33 D2 40 8A F8
 
 ```
 
-If you don't know how to update your pasta cause maybe has a different type of sig just change the ? with a 00 and before every part add \x example:
+If you don't know how to update your pasta cause maybe it accept only pattetns and not sigs just change the ? with a 00 and before every part add \x example:
 
 Before -> ```cpp 48 8B 0D ? ? ? ? 48 98```
 After ->  ```cpp \x48\x8B\x0D\x00\x00\x00\x00\x48\x98```
