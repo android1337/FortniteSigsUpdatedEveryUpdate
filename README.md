@@ -4,7 +4,7 @@ Ez Fortnite Sigs for your pasta
 
 Updated season 6
 The rise of Internals, The rise of Pasters only 4u.
-Credits to @homeless1337 for GetObjectName Function
+Credits to https://github.com/homeless1337 for GetObjectName Function
 ```cpp
 
 GoObject: 48 8B 05 ? ? ? ? 48 8B 0C C8 48 8B 04 D1
