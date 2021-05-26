@@ -9,7 +9,6 @@ The rise of Internals, The rise of Pasters only 4u.
 GoObject: 48 8B 05 ? ? ? ? 48 8B 0C C8 48 8B 04 D1
 FnFree: 48 85 C9 0F 84 ? ? ? ? 53 48 83 EC 20 48 89 7C 24 30 48 8B D9 48 8B 3D ? ? ? ? 48 85 FF 0F 84 ? ? ? ? 48 8B 07 4C 8B 40 30 48 8D 05 ? ? ? ? 4C 3B C0
 Uworld: 48 8B 05 ? ? ? ? 4D 8B C2
-GetObjectName: 48 89 5C 24 ? 55 56 57 48 8B EC 48 83 EC ? 48 83 65 ? ? 49 8B F0 48 8B DA E8 ? ? ? ? 48 8B 43 ? 48 85 C0
 ProjectionMatrixGivenView: E8 ? ? ? ? 41 88 07 48 83 C4 30
 FNamePool: 48 8B 1D ? ? ? ? 48 03 C0
 GetBoneMatrix: E8 ? ? ? ? F3 0F 10 48 38
