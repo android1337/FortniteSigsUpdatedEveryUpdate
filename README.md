@@ -63,3 +63,4 @@ After ->  ```cpp \x48\x8B\x0D\x00\x00\x00\x00\x48\x98```
 
 
 If you have any troubles dm me on discord: android#1337
+
