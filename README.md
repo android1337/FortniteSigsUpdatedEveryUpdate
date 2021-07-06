@@ -2,7 +2,7 @@
 Fortnite Signatures / Patterns updated every update
 Ez Fortnite Sigs for your pasta
 
-Updated season 6
+Updated season 7  latest update
 The rise of Internals, The rise of Pasters only 4u.
 Credits to https://github.com/homeless1337 for GetObjectName Function
 ```cpp
