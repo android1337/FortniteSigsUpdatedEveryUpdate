@@ -12,7 +12,7 @@ FnFree: 48 85 C9 0F 84 ? ? ? ? 53 48 83 EC 20 48 89 7C 24 30 48 8B D9 48 8B 3D ?
 ProjectWorldToScreen: E8 ? ? ? ? 48 8B 5C 24 ? 41 88 07 48 83 C4 30
 GetBoneMatrix: E8 ? ? ? ? 48 8B 47 30 F3 0F 10 45 (updated)
 LineOfSightTo: getting
-GetNameByIndex = getting
+GetNameByIndex = secret :trolla:
 
 
 
