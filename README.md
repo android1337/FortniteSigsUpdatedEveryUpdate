@@ -18,4 +18,4 @@ GetNameByIndex = 48 89 5C 24 ? 48 89 6C 24 ? 56 57 41 56 48 81 EC ? ? ? ? 48 8B 
 
 ```
 
-If you have any troubles dm me on discord: android#6969
+If you have any troubles dm me on discord: android#1337
