@@ -1,21 +1,14 @@
 # FortniteSigsUpdatedEveryUpdate
-Fortnite Signatures / Patterns updated every update
-Ez Fortnite Sigs for your pasta
+Fortnite Signatures Season 2 Chapter 3 Updated
 
-Updated chapter 3
-The rise of Internals, The rise of Pasters only 4u.
 ```cpp
-
-Uworld: 48 89 05 ? ? ? ? 48 8B 4B 78 (updated)
-GoObject: 48 8B 05 ? ? ? ? 48 8B 0C C8 48 8B 04 D1 (updated)
-FnFree: 48 85 C9 0F 84 ? ? ? ? 53 48 83 EC 20 48 89 7C 24 30 48 8B D9 48 8B 3D ? ? ? ? 48 85 FF 0F 84 ? ? ? ? 48 8B 07 4C 8B 40 30 48 8D 05 ? ? ? ? 4C 3B C0 (updated)
-ProjectWorldToScreen: E8 ? ? ? ? 48 8B 5C 24 ? 41 88 07 48 83 C4 30 (updated)
-GetBoneMatrix: E8 ? ? ? ? 48 8B 47 30 F3 0F 10 45 (updated)
-LineOfSightTo: 48 8B C4 48 89 58 20 55 56 57 41 54 41 55 41 56 41 57 48 8D 6C 24 ? 48 81 EC ? ? ? ? 0F 29 70 B8 0F 29 78 A8 44 0F 29 40 ? 48 8B 05 ? ? ? ? 48 33 C4 48 89 45 20 45 8A E9 (updated)
-GetNameByIndex = 48 89 5C 24 ? 48 89 6C 24 ? 56 57 41 56 48 81 EC ? ? ? ? 48 8B 05 ? ? ? ? 48 33 C4 48 89 84 24 ? ? ? ? 48 8B F2 4C 8B F1 E8 ? ? ? ? 45 8B 06 33 ED 41 0F B7 16 41 C1 E8 10 89 54 24 24 44 89 44 24 ? 48 8B 4C 24 ? 48 C1 E9 20 8D 3C 09 4A 03 7C C0 ? 0F B7 17 C1 EA 06 41 39 6E 04
-
-
-
+Uworld: 48 89 05 ? ? ? ? 48 8B 4B 78 (RVA 7)
+GoObject: 48 8B 05 ? ? ? ? 48 8B 0C C8 48 8B 04 D1 (RVA 7)
+FnFree: E8 ? ? ? ? 48 8B 4C 24 ? 48 85 C9 0F 84 ? ? ? ? E8 ? ? ? ? 90 E9 ? ? ? ? 48 8D 15 ? ? ? ? 83 CB 08 4C 8B (RVA 5)
+ProjectWorldToScreen: (will get on freetime)
+GetBoneMatrix: (will get on freetime)
+LineOfSightTo: (will get on freetime)
+GetNameByIndex = 48 89 5C 24 ? 48 89 74 24 ? 48 89 7C 24 ? 41 56 48 81 EC ? ? ? ? 48 8B 05 ? ? ? ? 48 33 C4 48 89 84 24 ? ? ? ? 8B 01 4C 8B F2
 ```
 
-If you have any troubles dm me on discord: android#1337
+If you have any troubles dm me on discord: android#2731
